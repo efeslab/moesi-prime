@@ -1,7 +1,7 @@
 # MOESI-prime: Preventing Coherence-Induced Hammering in Commodity Workloads
 
 This is the source code for our ISCA 2022 paper "MOESI-prime: Preventing Coherence-Induced Hammering in Commodity Workloads".
-MOESI-prime is implemented in the [gem5 simulator](https://github.com/gem5/gem5) (version 21.0.2).
+MOESI-prime is implemented in the [gem5 simulator](https://github.com/gem5/gem5) (version 21.1.0.2).
 When using code from this repository, please be sure to cite [the paper](https://www.kevinloughlin.org/moesi-prime.pdf).
 
 ## Implementation Overview
