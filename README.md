@@ -19,7 +19,7 @@ Note that we additionally changed select simulation parameters to better model t
 
 ## Building Gem5
 
-NOTE: see `README` (in contrast to this file, `README.md` for the original gem5 version).
+NOTE: see `README` (in contrast to this file) for the original gem5 version.
 
 We recommend compiling and running this code on Ubuntu 20.04 with KVM support, as that's where we've tested our setup. See [this document](https://www.gem5.org/documentation/general_docs/building) for building gem5 on Ubuntu 20.04.
 
