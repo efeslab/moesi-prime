@@ -1,0 +1,3 @@
+[submodule "ubuntu-20.04-gem5"]
+	path = ubuntu-20.04-gem5
+	url = git@github.com:efeslab/ubuntu-20.04-gem5.git

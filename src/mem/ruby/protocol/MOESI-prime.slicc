@@ -1,0 +1,7 @@
+protocol "MOESI-prime";
+include "RubySlicc_interfaces.slicc";
+include "MOESI-prime-msg.sm";
+include "MOESI-prime-L1cache.sm";
+include "MOESI-prime-L2cache.sm";
+include "MOESI-prime-dma.sm";
+include "MOESI-prime-dir.sm";
